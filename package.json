@@ -1,7 +1,7 @@
 {
   "name": "webserver",
   "version": "1.0.0",
-  "description": "",
+  "description": "��#\u0000 \u0000h\u0000o\u0000a\u0000n\u0000g\u0000s\u0000e\u0000r\u0000v\u0000e\u0000r\u0000\r\u0000 \u0000#\u0000 \u0000h\u0000o\u0000a\u0000n\u0000g\u0000s\u0000e\u0000r\u0000v\u0000e\u0000r\u0000\r\u0000 \u0000",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -13,5 +13,14 @@
     "consolidate": "^0.16.0",
     "express": "^4.17.1",
     "handlebars": "^4.7.6"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoang4a/hoangserver.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hoang4a/hoangserver/issues"
+  },
+  "homepage": "https://github.com/hoang4a/hoangserver#readme"
 }
